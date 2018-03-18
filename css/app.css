@@ -40,6 +40,7 @@ align-items: center;
 text-align: center;
 }
 
+
 h2 {
 margin: 0;
 transform: rotate(-45deg);
@@ -52,4 +53,7 @@ background-color: #03a9f4;
 
 #paris {
 background-color: #d32f2f;
+}
+#mays {
+background-color: #ff0000;
 }
